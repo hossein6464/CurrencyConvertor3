@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Currency Converter3</string>
+    <string name="button">CONVERTER</string>
+    <string name="textView">Enter the amount you want to convert</string>
+    <string name="image">Image will be shown here</string>
+</resources>
